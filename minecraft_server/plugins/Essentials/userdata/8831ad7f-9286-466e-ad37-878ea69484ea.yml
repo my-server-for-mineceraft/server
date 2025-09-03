@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1756919299021
+  login: 1756919295967
+money: '0'
+last-account-name: Sopoka
+logoutlocation:
+  world: b6cbba7f-cd41-4adc-a76e-e720c3568826
+  world-name: world
+  x: -10.577409377238844
+  y: 88.0
+  z: 1.9706600063583373
+  yaw: 20.487611770629883
+  pitch: 24.18744659423828

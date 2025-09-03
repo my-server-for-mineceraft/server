@@ -12,11 +12,11 @@ accepting-pay: true
 baltop-exempt: false
 timestamps:
   lastteleport: 1756845399947
-  lastheal: 0
+  lastheal: 1756918751854
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1756845535753
+  logout: 1756918793569
   login: 1756917997427
 money: '911.00'
 last-account-name: killerzombie570
@@ -29,10 +29,10 @@ lastlocation:
   yaw: -103.35090637207031
   pitch: 10.950067520141602
 logoutlocation:
-  world: b6cbba7f-cd41-4adc-a76e-e720c3568826
-  world-name: world
-  x: -938.1314394639263
-  y: 71.0
-  z: -214.3115655894576
-  yaw: 1.94921875
-  pitch: -5.550041198730469
+  world: d22c387c-2dea-4b96-ba3a-f8279b6e07c3
+  world-name: world_nether
+  x: -1048.7120843010546
+  y: 17.0
+  z: -1094.3709429461837
+  yaw: 95.84576416015625
+  pitch: 14.700114250183105
