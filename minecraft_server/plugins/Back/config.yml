@@ -1,0 +1,49 @@
+# Plugin developed by GFelberg
+# Config.yml
+
+# language: en
+# Thanks for downloading my plugin. For more plugins, don't forget to look my updates!
+# If you find any bugs or ideas to the plugin, pm me at spigot.
+
+# language: br/pt
+# Obrigado por baixar meu plugin. Para mais plugins, não esqueça de olhar as atualizações!
+# Se você encontrar algum problema ou ter alguma ideia para o plugin, pm no spigot.
+
+# Permissions
+
+# back.back : Access to Back command
+# back.bypass : Access to Back command without cooldown
+# back.bypass.economy : Access to Back command without withdraw money
+# back.admin : Access to the Admin Help and List all Blocked Worlds
+# back.update : Access to receive notifications about the plugin, as new versions
+# back.reload : Access to Reload the Plugin
+
+# Update-Check Option - https://www.spigotmc.org/resources/back.94702/
+# If true, the player will receive the notification when joins the server, if he has the permission
+
+# %back_prefix% : Gets the Back Prefix
+# %back_current_version% : Gets the Current Version
+# %back_latest_version% : Gets the Latest Version
+# %back_spigot_link% : Gets the Back Spigot Link
+update-check:
+  Enable: true
+  Messages:
+    - ""
+    - "%back_prefix% &eThere is a new update available!"
+    - "&6Current Version: &c%back_current_version%"
+    - "&6Latest Version: &a%back_latest_version%"
+    - "&6Link: &e%back_spigot_link%"
+    - ""
+
+# Warning: The "death_locations" file SHOULD NOT be touched. The file works itself with the configurations and
+# deaths in the server.
+
+# Configuration 1.0
+# This configuration will display the Language System
+
+# Check it out the Languages in the "languages" folder. If she doesn't exist, send me a copy
+# of the messages in the pm or Discussion Thread.
+
+# English (en_US) is the default language if another language were not found, and will be replaced in
+# configuration below
+Language: "en_US"

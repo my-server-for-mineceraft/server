@@ -119,7 +119,7 @@ teleport-invulnerability: 4
 teleport-to-center: true
 
 # The delay, in seconds, required between /heal or /feed attempts.
-heal-cooldown: 60
+heal-cooldown: 0
 
 # Should potion effects be removed when healing a player?
 remove-effects-on-heal: true
