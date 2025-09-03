@@ -1,0 +1,22 @@
+########################################
+#                                       #
+#            Database Settings          #
+#                                       #
+########################################
+
+# This section defines the database configuration for the plugin.
+#
+# databaseType: The type of database to use.
+#               'MySQL' - To use a MySQL database.
+#               'SQLite' - To use a SQLite (Flatfile / local) database.
+#
+# If you use SQLite you don't need to enter any information. 
+# If you use MySQL make sure to enter correct information for your MySQL database.
+
+databaseType: SQLite
+mysql:
+  host: localhost
+  port: 3306
+  username: root
+  password: pw
+  database: db

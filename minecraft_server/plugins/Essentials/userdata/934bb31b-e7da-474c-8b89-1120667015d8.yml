@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1756827223390
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1756833148195
+  login: 1756831146794
+money: '1382.079999999999999'
+last-account-name: Smactus
+lastlocation:
+  world: b6cbba7f-cd41-4adc-a76e-e720c3568826
+  world-name: world
+  x: -999.7050602271622
+  y: 78.02442408821369
+  z: -231.4650195417786
+  yaw: -30.600421905517578
+  pitch: -5.249873638153076
+logoutlocation:
+  world: b6cbba7f-cd41-4adc-a76e-e720c3568826
+  world-name: world
+  x: -952.7781122922942
+  y: 71.0
+  z: -162.90416640089958
+  yaw: -116.532958984375
+  pitch: 21.14946746826172

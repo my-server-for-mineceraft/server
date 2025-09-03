@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1756845399947
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1756845535753
+  login: 1756842416901
+money: '1871.80'
+last-account-name: killerzombie570
+lastlocation:
+  world: d22c387c-2dea-4b96-ba3a-f8279b6e07c3
+  world-name: world_nether
+  x: -124.86181586487494
+  y: 133.0
+  z: -41.179430281963036
+  yaw: 140.73883056640625
+  pitch: 2.8500847816467285
+logoutlocation:
+  world: b6cbba7f-cd41-4adc-a76e-e720c3568826
+  world-name: world
+  x: -938.1314394639263
+  y: 71.0
+  z: -214.3115655894576
+  yaw: 1.94921875
+  pitch: -5.550041198730469

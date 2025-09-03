@@ -1,0 +1,38 @@
+nickPlayersOnThisServer: true
+usePreviousNick: true
+nickCooldown: 30
+chatFormat:
+  enabled: true
+  format: '%PREFIX%%NAME%&7: &r%MESSAGE%'
+names:
+- Notch
+- Stone
+blacklistedNames:
+- md_5
+- Hitler
+nickItem:
+  giveItemOnJoin: true
+  permissionNeeded: nick.item
+  slot: 4
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: NAME_TAG
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"text":"","extra":[{"text":"Nick","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"dark_purple"}]}'
+defaultGroup: default
+groups:
+- ==: me.sk8ingduck.nick.util.Group
+  probability: 10%
+  permission: null
+  group: owner
+- ==: me.sk8ingduck.nick.util.Group
+  probability: 10%
+  permission: null
+  group: default
+- ==: me.sk8ingduck.nick.util.Group
+  probability: 10%
+  permission: null
+  group: friends

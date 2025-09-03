@@ -1,0 +1,45 @@
+nick:
+  prefix: '&5Nick &8> '
+  help: |-
+    &8&m----------------------&r&e« Nick »&8&m----------------------
+
+    &a/nick &7- Nick/unnick yourself (with random group and name)
+    &a/nick <nick> &7- Nick yourself (with given nick)
+    &a/nick <group> &7- Nick yourself (with given group)
+    &a/nick <group> <nick> &7- Nick yourself (with given nick/group)
+
+    &a/nick <player> &7- Nick other player (with random group/name)
+    &a/nick <player> <nick> &7- Nick other player (with given nick)
+    &a/nick <player> <group> &7- Nick other player (with given group)
+    &a/nick <player> <group> <nick> &7- Nick other player (nick/group)
+
+    &8&m----------------------&r&e« Nick »&8&m----------------------
+  noperms: '&cYou don''t have permission to do that.'
+  cooldown: '&cPlease wait another %REMAINING% Seconds before using this command.'
+  realname: '&a%NICKNAME%''s real name is %PLAYER%'
+  nameblacklisted: '&cThis name is blacklisted!'
+  successful:
+    self: '&aNicked as %PREFIX%%NAME%'
+    other: '&aNicked %PLAYER% as %PREFIX%%NAME%'
+  unsuccessful:
+    fail_version_not_supported: '&cFailed to nick: unsupported MC version'
+    fail_plugin_not_initialized: '&cFailed to nick: Plugin is either not initialized
+      or disabled'
+    fail_empty_disguise: '&cFailed to nick: empty skin / name'
+    fail_name_invalid: '&cFailed to nick: invalid nickname'
+    fail_name_already_online: '&cFailed to nick: nickname already online'
+    fail_profile_not_found: '&cFailed to nick: reflections failed to get the player''s
+      GameProfile'
+    fail_name_change_exception: '&cFailed to nick: reflections failed to change the
+      player''s GameProfile''s name'
+unnick:
+  successful:
+    self: '&aUnnicked!'
+    other: '&aUnnicked %PLAYER%!'
+  unsuccessful:
+    fail_version_not_supported: '&cFailed to nick: unsupported MC version'
+    fail_already_undisguised: '&cFailed to nick: player not nicked'
+    fail_profile_not_found: '&cFailed to nick: reflections failed to get the player''s
+      GameProfile'
+    fail_name_change_exception: '&cFailed to nick: reflections failed to change the
+      player''s GameProfile''s name'
