@@ -95,3 +95,5 @@
 (2025-09-03 17:29:56) thegrateminecra was flagged [Check: KillAuraD (Impossible)] [Violations: 3/5] [TPS: 20.00] [Ping: 9ms (high stability)] [Client: Fabric] [Location: world_the_end -11414.65 1.06 6142.54]
 (2025-09-03 17:29:57) thegrateminecra was punished [Check: KillAuraD (Impossible)] [Violations: 5/5] [TPS: 20.00]  [Ping: 8ms (high stability)] [Client: Fabric] [Location: world_the_end -11414.69 1.06 6142.60]
 (2025-09-03 17:30:01) thegrateminecra was flagged [Check: KillAuraD (Impossible)] [Violations: 1/5] [TPS: 20.00] [Ping: 8ms (high stability)] [Client: Fabric] [Location: world_the_end -11414.27 1.06 6144.16]
+(2025-09-03 17:45:13) thegrateminecra was flagged [Check: SpeedA (Horizontal)] [Violations: 1/30] [TPS: 20.00] [Ping: 9ms (high stability)] [Client: Fabric] [Location: world -2783.57 114.88 -1325.55]
+(2025-09-03 17:45:17) thegrateminecra was flagged [Check: SpeedA (Horizontal)] [Violations: 7/30] [TPS: 20.00] [Ping: 9ms (high stability)] [Client: Fabric] [Location: world -2786.48 105.39 -1322.90]
