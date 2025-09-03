@@ -9,6 +9,7 @@ chests: []
 players:
 - 0982c1ef-7286-4c5d-9353-f563b0004464,OWNER
 - e3b72547-47cf-4ec4-be00-3ceebd137da8,DEFAULT
+- 934bb31b-e7da-474c-8b89-1120667015d8,DEFAULT
 anchoredPlayers: []
 level: 1
 tag: ''
