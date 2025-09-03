@@ -12,7 +12,7 @@ accepting-pay: true
 baltop-exempt: false
 timestamps:
   lastteleport: 1756918533737
-  lastheal: 1756921521492
+  lastheal: 1756925503251
   mute: 0
   jail: 0
   onlinejail: 0
