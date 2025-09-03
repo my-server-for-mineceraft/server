@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1756917743722
+  login: 1756917691522
+money: '0'
+last-account-name: kopimus
+logoutlocation:
+  world: b6cbba7f-cd41-4adc-a76e-e720c3568826
+  world-name: world
+  x: -19.331590275955612
+  y: 73.0
+  z: 106.14533288977165
+  yaw: 33.15032958984375
+  pitch: 17.09991455078125

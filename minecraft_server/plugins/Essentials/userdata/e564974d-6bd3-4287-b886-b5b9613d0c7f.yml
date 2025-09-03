@@ -16,7 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
+  logout: 1756917187173
   login: 1756916866116
-money: '0'
+money: '2000'
 last-account-name: Jumpyguyy
+logoutlocation:
+  world: b6cbba7f-cd41-4adc-a76e-e720c3568826
+  world-name: world
+  x: -956.3877255134655
+  y: 71.0
+  z: -210.79407352312032
+  yaw: -100.59619140625
+  pitch: 8.801115989685059
