@@ -16,3 +16,4 @@
 2025-09-03 16:16:56 [INFO]: Database QUEUE:Queue configured and loaded!
 2025-09-03 16:16:56 [INFO]: Attempting to queue up some more safe locations...
 2025-09-03 16:16:57 [INFO]: Queueing paused, max queue limit reached!
+2025-09-03 16:51:44 [INFO]: -Removed a queue Location{world=CraftWorld{name=world_nether},x=-967.5,y=32.0,z=-941.5,pitch=10.9500675,yaw=-103.35091}

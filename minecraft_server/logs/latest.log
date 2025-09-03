@@ -968,3 +968,265 @@ java.lang.IllegalArgumentException: Can not get final net.minecraft.network.Conn
 [16:46:37] [Server thread/INFO]: killerzombie570[/127.0.0.1:60004] logged in with entity id 5900 at ([world]-938.1314394639263, 71.0, -214.3115655894576)
 [16:46:50] [Craft Scheduler Thread - 56 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> oh hi
 [16:46:56] [Craft Scheduler Thread - 48 - InteractiveChat/INFO]: [Not Secure] <Friend killerzombie570> hi :D
+[16:47:10] [Server thread/INFO]: thegrateminecra issued server command: /vanish
+[16:47:11] [Server thread/INFO]: thegrateminecra issued server command: /vanish
+[16:47:26] [Craft Scheduler Thread - 50 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> do /warp enderman xp farm or smth
+[16:47:28] [Server thread/INFO]: thegrateminecra issued server command: /team warp
+[16:47:31] [Craft Scheduler Thread - 54 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> um /team warp
+[16:47:35] [Server thread/INFO]: thegrateminecra issued server command: /team warp endermanxpfarm
+[16:47:39] [Thread-13/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=147.185.221.31:33863, peerAddr=185.204.70.105:28279, claimAddress=209.25.141.2:43784, claimToken=[44, 0, 68, -109, -71, -35, 31, -124, 71, -71, -52, 70, 105, 110, 119, -62, 83, -80, -49, -85, 8, 104, -72, 113, 43, 0, 0, 0, 0, 0, 10, -61, -85, 0, 0, 0, 0, 0, 75, -89, 29, 0, 0, 0, 0, 0, 34, -72, 14, -103, -49, -85, 8, 0, 0, 0, 0, 36, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, -55, -43, 30, 110, -7, 105, 16, -18, 112, -68, -103, 79, 70, -89, 17, 70], tunnelServerId=1, dataCenterId=36}
+[16:47:39] [Thread-13/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[16:47:39] [Thread-13/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.141.2:43784 to claim client
+[16:47:39] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[16:47:39] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[16:47:39] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[16:47:39] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
+[16:47:39] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
+[16:47:39] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[16:47:39] [nioEventLoopGroup-2-2/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[16:47:40] [Server thread/INFO]: killerzombie570 issued server command: /team warp endermanxpfarm
+[16:47:40] [Server thread/INFO]: grates killerzombie570 has made the advancement [The End?]
+[16:47:42] [Craft Scheduler Thread - 48 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> :D
+[16:47:44] [Server thread/INFO]: (Light) killerzombie570 was flagged for KillAuraD (1/5)
+[16:47:44] [Server thread/INFO]: (Light) killerzombie570 was flagged for KillAuraD (2/5)
+[16:47:45] [Server thread/INFO]: (Light) killerzombie570 was flagged for KillAuraD (3/5)
+[16:48:08] [Craft Scheduler Thread - 46 - InteractiveChat/INFO]: [Not Secure] <Friend killerzombie570> you built this without me :(
+[16:48:12] [Craft Scheduler Thread - 42 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> :(( sowwy
+[16:48:14] [Craft Scheduler Thread - 59 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> i can destroy it
+[16:48:16] [Craft Scheduler Thread - 55 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> and rebuild :D
+[16:48:19] [Craft Scheduler Thread - 53 - InteractiveChat/INFO]: [Not Secure] <Friend killerzombie570> no its ok
+[16:48:22] [Craft Scheduler Thread - 47 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> ok :D
+[16:48:23] [Craft Scheduler Thread - 54 - InteractiveChat/INFO]: [Not Secure] <Friend killerzombie570> :D
+[16:48:24] [Craft Scheduler Thread - 42 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> im sry
+[16:48:26] [Craft Scheduler Thread - 55 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> i wasj ust boreod
+[16:48:29] [Craft Scheduler Thread - 55 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> nd didnt know what to do :D
+[16:48:35] [Craft Scheduler Thread - 54 - InteractiveChat/INFO]: [Not Secure] <Friend killerzombie570> its alr :D
+[16:48:35] [Thread-13/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=147.185.221.31:33863, peerAddr=178.81.217.65:60873, claimAddress=209.25.141.2:43784, claimToken=[44, 0, 68, -109, -71, -35, 31, -124, 71, -78, 81, -39, 65, -19, -55, -79, -21, 59, 84, -85, 8, 104, -72, 113, 100, 0, 0, 0, 0, 0, 10, -61, -85, 0, 0, 0, 0, 0, 75, -89, 29, 0, 0, 0, 0, 0, 34, -72, 14, -26, 84, -85, 8, 0, 0, 0, 0, 36, 0, 0, 0, 0, 0, 0, 0, 1, 0, 3, -13, -98, -110, -34, -6, 49, -31, -92, -52, -103, 75, -63, 126, -3, 117, 79], tunnelServerId=1, dataCenterId=36}
+[16:48:35] [Thread-13/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[16:48:35] [Thread-13/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.141.2:43784 to claim client
+[16:48:35] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[16:48:35] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[16:48:35] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[16:48:35] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
+[16:48:35] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
+[16:48:35] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[16:48:35] [nioEventLoopGroup-2-4/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[16:48:36] [Thread-13/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=147.185.221.31:33863, peerAddr=178.81.217.65:60931, claimAddress=209.25.141.2:43784, claimToken=[44, 0, 68, -109, -71, -35, 31, -124, 71, -78, 81, -39, 65, -18, 3, -29, 29, 48, 60, -85, 8, 104, -72, 113, 100, 0, 0, 0, 0, 0, 10, -61, -85, 0, 0, 0, 0, 0, 75, -89, 29, 0, 0, 0, 0, 0, 34, -72, 14, -28, 60, -85, 8, 0, 0, 0, 0, 36, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, -91, 32, 4, -1, -31, -52, 118, 118, 25, -116, 47, -19, 37, -122, -32, -120], tunnelServerId=1, dataCenterId=36}
+[16:48:36] [Thread-13/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[16:48:36] [Thread-13/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.141.2:43784 to claim client
+[16:48:36] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[16:48:36] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[16:48:36] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[16:48:36] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
+[16:48:36] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
+[16:48:36] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[16:48:36] [nioEventLoopGroup-2-2/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[16:48:38] [Craft Scheduler Thread - 57 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> :D
+[16:48:57] [Thread-13/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[16:48:58] [Craft Scheduler Thread - 56 - InteractiveChat/INFO]: [Not Secure] <Friend killerzombie570> I FEEL SO MUCH POWER I CAN 1 SHOT EM
+[16:49:02] [Craft Scheduler Thread - 56 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> :D
+[16:49:09] [Thread-13/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[16:49:14] [Thread-13/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=147.185.221.31:33863, peerAddr=185.204.70.105:28833, claimAddress=209.25.141.2:43784, claimToken=[44, 0, 68, -109, -71, -35, 31, -124, 71, -71, -52, 70, 105, 112, -95, -64, -55, 119, 29, -85, 8, 104, -72, 113, -118, 0, 0, 0, 0, 0, 10, -61, -85, 0, 0, 0, 0, 0, 75, -89, 29, 0, 0, 0, 0, 0, 34, -72, 14, 5, 29, -85, 8, 0, 0, 0, 0, 36, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 106, -116, -74, 72, 28, 118, 50, 70, 43, -23, -37, 25, -82, 113, -49, 123], tunnelServerId=1, dataCenterId=36}
+[16:49:14] [Thread-13/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[16:49:14] [Thread-13/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.141.2:43784 to claim client
+[16:49:14] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[16:49:14] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[16:49:14] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[16:49:14] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
+[16:49:14] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
+[16:49:14] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[16:49:14] [nioEventLoopGroup-2-4/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[16:49:14] [Server thread/INFO]: thegrateminecra issued server command: /ec
+[16:49:17] [Craft Scheduler Thread - 66 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> theres now /ec
+[16:49:18] [Craft Scheduler Thread - 59 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> :D
+[16:49:20] [Server thread/INFO]: killerzombie570 issued server command: /rtp nether
+[16:49:22] [Server thread/INFO]: thegrateminecra issued server command: /enderchest
+[16:49:25] [Server thread/INFO]: killerzombie570 issued server command: /ec
+[16:49:26] [Server thread/INFO]: thegrateminecra issued server command: /invsee killerzombie570
+[16:49:28] [Craft Scheduler Thread - 54 - InteractiveChat/INFO]: [Not Secure] <Friend killerzombie570> w
+[16:49:39] [Server thread/INFO]: killerzombie570 issued server command: /team warp netherbase
+[16:49:43] [Craft Scheduler Thread - 57 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> [inv,thegrateminecra]
+[16:49:52] [Server thread/INFO]: thegrateminecra issued server command: /team warp overworldbase
+[16:49:55] [Craft Scheduler Thread - 64 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> wya
+[16:49:56] [Server thread/INFO]: killerzombie570 issued server command: /shop
+[16:50:01] [Server thread/INFO]: Shop >> killerzombie570 bought 1 x Trident(Miscellaneous.page1.items.37) for $180.00 with the buy screen.
+[16:50:03] [Server thread/INFO]: thegrateminecra issued server command: /team warp endermanxpfarm
+[16:50:17] [Server thread/INFO]: (Light) thegrateminecra was flagged for KillAuraD (1/5)
+[16:50:17] [Server thread/INFO]: (Light) thegrateminecra was flagged for KillAuraD (2/5)
+[16:50:31] [Craft Scheduler Thread - 59 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> :D ?
+[16:50:34] [Craft Scheduler Thread - 66 - InteractiveChat/INFO]: [Not Secure] <Friend killerzombie570> aw trident dupe patched :(
+[16:50:37] [Craft Scheduler Thread - 59 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> :((
+[16:50:47] [Craft Scheduler Thread - 65 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> i tried it
+[16:50:50] [Craft Scheduler Thread - 65 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> it wasnt woroking
+[16:51:06] [Server thread/INFO]: thegrateminecra issued server command: /team warp netherbase
+[16:51:18] [Craft Scheduler Thread - 67 - InteractiveChat/INFO]: [Not Secure] <Friend killerzombie570> how i get off nether roof
+[16:51:25] [Craft Scheduler Thread - 54 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> um
+[16:51:31] [Craft Scheduler Thread - 66 - LightAntiCheat/ERROR]: Could not pass event LACAsyncPlayerMoveEvent to LightAntiCheat v1.2.6
+java.lang.IllegalStateException: PlayerTeleportEvent may only be triggered synchronously.
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:42) ~[paper-1.21.8.jar:1.21.8-56-65641d1]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.8.jar:1.21.8-56-65641d1]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.entity.CraftPlayer.teleport(CraftPlayer.java:1416) ~[paper-1.21.8.jar:1.21.8-56-65641d1]
+	at org.bukkit.craftbukkit.entity.CraftPlayer.teleport(CraftPlayer.java:1334) ~[paper-1.21.8.jar:1.21.8-56-65641d1]
+	at org.bukkit.craftbukkit.entity.CraftEntity.teleport(CraftEntity.java:285) ~[paper-1.21.8.jar:1.21.8-56-65641d1]
+	at LightAntiCheat-1.2.6.jar/me.vekster.lightanticheat.util.hook.server.folia.FoliaUtil.teleportPlayer(FoliaUtil.java:122) ~[LightAntiCheat-1.2.6.jar:?]
+	at LightAntiCheat-1.2.6.jar/me.vekster.lightanticheat.check.checks.movement.speed.SpeedE.onTeleportVertical(SpeedE.java:150) ~[LightAntiCheat-1.2.6.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:71) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.8.jar:1.21.8-56-65641d1]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.8.jar:1.21.8-56-65641d1]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at LightAntiCheat-1.2.6.jar/me.vekster.lightanticheat.event.LACEventCaller.lambda$null$0(LACEventCaller.java:60) ~[LightAntiCheat-1.2.6.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.8.jar:1.21.8-56-65641d1]
+	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[paper-1.21.8.jar:1.21.8-56-65641d1]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[paper-1.21.8.jar:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[16:51:31] [Craft Scheduler Thread - 66 - LightAntiCheat/ERROR]: Could not pass event LACAsyncPlayerMoveEvent to LightAntiCheat v1.2.6
+java.lang.IllegalStateException: PlayerTeleportEvent may only be triggered synchronously.
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:42) ~[paper-1.21.8.jar:1.21.8-56-65641d1]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.8.jar:1.21.8-56-65641d1]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.entity.CraftPlayer.teleport(CraftPlayer.java:1416) ~[paper-1.21.8.jar:1.21.8-56-65641d1]
+	at org.bukkit.craftbukkit.entity.CraftPlayer.teleport(CraftPlayer.java:1334) ~[paper-1.21.8.jar:1.21.8-56-65641d1]
+	at org.bukkit.craftbukkit.entity.CraftEntity.teleport(CraftEntity.java:285) ~[paper-1.21.8.jar:1.21.8-56-65641d1]
+	at LightAntiCheat-1.2.6.jar/me.vekster.lightanticheat.util.hook.server.folia.FoliaUtil.teleportPlayer(FoliaUtil.java:122) ~[LightAntiCheat-1.2.6.jar:?]
+	at LightAntiCheat-1.2.6.jar/me.vekster.lightanticheat.check.checks.movement.speed.SpeedE.onTeleportVertical(SpeedE.java:150) ~[LightAntiCheat-1.2.6.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:71) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.8.jar:1.21.8-56-65641d1]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.8.jar:1.21.8-56-65641d1]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at LightAntiCheat-1.2.6.jar/me.vekster.lightanticheat.event.LACEventCaller.lambda$null$0(LACEventCaller.java:60) ~[LightAntiCheat-1.2.6.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.8.jar:1.21.8-56-65641d1]
+	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[paper-1.21.8.jar:1.21.8-56-65641d1]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[paper-1.21.8.jar:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[16:51:33] [Craft Scheduler Thread - 54 - LightAntiCheat/ERROR]: Could not pass event LACAsyncPlayerMoveEvent to LightAntiCheat v1.2.6
+java.lang.IllegalStateException: PlayerTeleportEvent may only be triggered synchronously.
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:42) ~[paper-1.21.8.jar:1.21.8-56-65641d1]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.8.jar:1.21.8-56-65641d1]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.entity.CraftPlayer.teleport(CraftPlayer.java:1416) ~[paper-1.21.8.jar:1.21.8-56-65641d1]
+	at org.bukkit.craftbukkit.entity.CraftPlayer.teleport(CraftPlayer.java:1334) ~[paper-1.21.8.jar:1.21.8-56-65641d1]
+	at org.bukkit.craftbukkit.entity.CraftEntity.teleport(CraftEntity.java:285) ~[paper-1.21.8.jar:1.21.8-56-65641d1]
+	at LightAntiCheat-1.2.6.jar/me.vekster.lightanticheat.util.hook.server.folia.FoliaUtil.teleportPlayer(FoliaUtil.java:122) ~[LightAntiCheat-1.2.6.jar:?]
+	at LightAntiCheat-1.2.6.jar/me.vekster.lightanticheat.check.checks.movement.speed.SpeedE.onTeleportVertical(SpeedE.java:150) ~[LightAntiCheat-1.2.6.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:71) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.8.jar:1.21.8-56-65641d1]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.8.jar:1.21.8-56-65641d1]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at LightAntiCheat-1.2.6.jar/me.vekster.lightanticheat.event.LACEventCaller.lambda$null$0(LACEventCaller.java:60) ~[LightAntiCheat-1.2.6.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.8.jar:1.21.8-56-65641d1]
+	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[paper-1.21.8.jar:1.21.8-56-65641d1]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[paper-1.21.8.jar:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[16:51:33] [Craft Scheduler Thread - 54 - LightAntiCheat/ERROR]: Could not pass event LACAsyncPlayerMoveEvent to LightAntiCheat v1.2.6
+java.lang.IllegalStateException: PlayerTeleportEvent may only be triggered synchronously.
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:42) ~[paper-1.21.8.jar:1.21.8-56-65641d1]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.8.jar:1.21.8-56-65641d1]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.entity.CraftPlayer.teleport(CraftPlayer.java:1416) ~[paper-1.21.8.jar:1.21.8-56-65641d1]
+	at org.bukkit.craftbukkit.entity.CraftPlayer.teleport(CraftPlayer.java:1334) ~[paper-1.21.8.jar:1.21.8-56-65641d1]
+	at org.bukkit.craftbukkit.entity.CraftEntity.teleport(CraftEntity.java:285) ~[paper-1.21.8.jar:1.21.8-56-65641d1]
+	at LightAntiCheat-1.2.6.jar/me.vekster.lightanticheat.util.hook.server.folia.FoliaUtil.teleportPlayer(FoliaUtil.java:122) ~[LightAntiCheat-1.2.6.jar:?]
+	at LightAntiCheat-1.2.6.jar/me.vekster.lightanticheat.check.checks.movement.speed.SpeedE.onTeleportVertical(SpeedE.java:150) ~[LightAntiCheat-1.2.6.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:71) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.8.jar:1.21.8-56-65641d1]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.8.jar:1.21.8-56-65641d1]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
+	at LightAntiCheat-1.2.6.jar/me.vekster.lightanticheat.event.LACEventCaller.lambda$null$0(LACEventCaller.java:60) ~[LightAntiCheat-1.2.6.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.8.jar:1.21.8-56-65641d1]
+	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[paper-1.21.8.jar:1.21.8-56-65641d1]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[paper-1.21.8.jar:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[16:51:35] [Craft Scheduler Thread - 66 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> idk
+[16:51:38] [Server thread/INFO]: killerzombie570 issued server command: /rtp
+[16:51:40] [Craft Scheduler Thread - 67 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> well break some bedrock
+[16:51:42] [Server thread/INFO]: thegrateminecra issued server command: /rules
+[16:51:47] [Server thread/INFO]: thegrateminecra issued server command: /team warp overworldbase
+[16:51:49] [Craft Scheduler Thread - 55 - InteractiveChat/INFO]: [Not Secure] <Friend killerzombie570> nvm
+[16:51:51] [Craft Scheduler Thread - 65 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> wttd u do
+[16:51:52] [Craft Scheduler Thread - 66 - InteractiveChat/INFO]: [Not Secure] <Friend killerzombie570> rtped
+[16:51:54] [Craft Scheduler Thread - 66 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> oh
+[16:51:55] [Server thread/INFO]: thegrateminecra issued server command: /tpa killerzombie570
+[16:52:00] [Server thread/INFO]: killerzombie570 issued server command: /tpaccept
+[16:52:48] [Craft Scheduler Thread - 55 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> btw ip is static now
+[16:52:52] [Craft Scheduler Thread - 42 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> so it no lonoger changes
+[16:52:57] [Craft Scheduler Thread - 59 - InteractiveChat/INFO]: [Not Secure] <Friend killerzombie570> :D
+[16:52:59] [Thread-13/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[16:53:11] [Thread-13/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[16:53:14] [Craft Scheduler Thread - 72 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> we xraying for netherite
+[16:53:21] [Craft Scheduler Thread - 55 - InteractiveChat/INFO]: [Not Secure] <Friend killerzombie570> wdym
+[16:53:21] [Craft Scheduler Thread - 71 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> btw i patched fly
+[16:53:24] [Craft Scheduler Thread - 70 - InteractiveChat/INFO]: [Not Secure] <Friend killerzombie570> i aint xray
+[16:53:25] [Server thread/INFO]: (Light) killerzombie570 was flagged for FlightC (1/40)
+[16:53:25] [Server thread/INFO]: (Light) killerzombie570 was flagged for FlightC (2/40)
+[16:53:25] [Craft Scheduler Thread - 71 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> and speed hacks
+[16:53:28] [Craft Scheduler Thread - 71 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> kk
+[16:53:54] [Craft Scheduler Thread - 46 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> ivegot my xray on
+[16:53:57] [Craft Scheduler Thread - 70 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> so ill know if u are
+[16:54:32] [Thread-13/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=147.185.221.31:33863, peerAddr=185.204.70.105:15284, claimAddress=209.25.141.2:43784, claimToken=[44, 0, 68, -109, -71, -35, 31, -124, 71, -71, -52, 70, 105, 59, -76, 48, -66, -23, 126, -85, 8, 104, -72, 114, -56, 0, 0, 0, 0, 0, 10, -61, -85, 0, 0, 0, 0, 0, 75, -89, 29, 0, 0, 0, 0, 0, 34, -72, 14, 1, 126, -85, 8, 0, 0, 0, 0, 36, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, -80, -93, 100, 63, -77, 38, -99, 54, 50, 56, 124, -54, 91, 13, -91, 90], tunnelServerId=1, dataCenterId=36}
+[16:54:32] [Thread-13/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[16:54:32] [Thread-13/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.141.2:43784 to claim client
+[16:54:32] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[16:54:32] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[16:54:32] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[16:54:32] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
+[16:54:32] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
+[16:54:32] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[16:54:32] [nioEventLoopGroup-2-2/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[16:54:35] [Server thread/INFO]: thegrateminecra issued server command: /rtp
+[16:54:35] [Server thread/INFO]: thegrateminecra issued server command: /heal
+[16:54:44] [Server thread/INFO]: thegrateminecra issued server command: /heal
+[16:54:51] [Server thread/INFO]: killerzombie570 issued server command: /shop
+[16:54:57] [Server thread/INFO]: Shop >> killerzombie570 bought 64 x Golden Carrot(Food.page1.items.8) for $780.80 with the buy screen.
+[16:55:15] [Craft Scheduler Thread - 75 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> are u hacking ?
+[16:55:28] [Server thread/INFO]: thegrateminecra issued server command: /heal
+[16:55:29] [Server thread/INFO]: thegrateminecra issued server command: /tpa killerzombie570
+[16:55:31] [Server thread/INFO]: thegrateminecra issued server command: /hehal
+[16:55:33] [Server thread/INFO]: thegrateminecra issued server command: /heal
+[16:55:33] [Server thread/INFO]: killerzombie570 issued server command: /tpaccept
+[16:55:33] [Server thread/WARN]: thegrateminecra moved too quickly! 1.3870454246530244,28.751987299970352,-1.9438094942247517
+[16:55:36] [Server thread/INFO]: thegrateminecra issued server command: /heal
+[16:55:41] [Craft Scheduler Thread - 76 - InteractiveChat/INFO]: [Not Secure] <Friend killerzombie570> how manu heart u got
+[16:55:44] [Craft Scheduler Thread - 74 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> 10
+[16:55:51] [Craft Scheduler Thread - 68 - InteractiveChat/INFO]: [Not Secure] <Friend killerzombie570> like how many u on
+[16:55:54] [Craft Scheduler Thread - 70 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> 10
+[16:55:58] [Craft Scheduler Thread - 46 - InteractiveChat/INFO]: [Not Secure] <Friend killerzombie570> after the drop
+[16:56:02] [Craft Scheduler Thread - 77 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> i did /heal
+[16:56:14] [Server thread/INFO]: killerzombie570 issued server command: /hearts
+[16:56:21] [Craft Scheduler Thread - 59 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> is there a problem ?
+[16:56:31] [Craft Scheduler Thread - 76 - InteractiveChat/INFO]: [Not Secure] <Friend killerzombie570> no useing ur admin commands to abuse
+[16:56:36] [Craft Scheduler Thread - 65 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> nooo
+[16:56:40] [Craft Scheduler Thread - 70 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> it was thte hack auto heal
+[16:56:53] [Thread-13/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=147.185.221.31:33863, peerAddr=109.126.209.201:42254, claimAddress=209.25.141.2:43783, claimToken=[44, 0, 68, -109, -71, -35, 31, -124, 71, 109, 126, -47, -55, -91, 14, 5, -122, 16, -47, -85, 7, 104, -72, 115, 85, 0, 0, 0, 0, 0, 10, -61, -85, 0, 0, 0, 0, 0, 75, -89, 29, 0, 0, 0, 0, 0, 34, -72, 14, -116, -47, -85, 7, 0, 0, 0, 0, 36, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 63, -72, 27, 75, 75, 45, 58, -26, 90, -61, 73, -61, 89, -67, -77, -70], tunnelServerId=1, dataCenterId=36}
+[16:56:53] [Thread-13/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[16:56:53] [Thread-13/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.141.2:43783 to claim client
+[16:56:53] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[16:56:53] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[16:56:53] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[16:56:53] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
+[16:56:53] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
+[16:56:53] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[16:56:53] [nioEventLoopGroup-2-4/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[16:56:53] [luckperms-command-executor/INFO]: [LP] Preparing a new editor session, please wait...
+[16:56:54] [luckperms-command-executor/INFO]: [LP] Click the link below to open the editor:
+[16:56:54] [luckperms-command-executor/INFO]: https://luckperms.net/editor/oPRfmK2kYO
+[16:56:57] [luckperms-worker-8/INFO]: [LP] Editor window connected successfully.
+[16:57:02] [Thread-13/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[16:57:06] [Craft Scheduler Thread - 65 - InteractiveChat/INFO]: [Not Secure] <Friend killerzombie570> we need to do deeper
+[16:57:06] [Craft Scheduler Thread - 75 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> and bru
+[16:57:09] [Craft Scheduler Thread - 68 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> kk
+[16:57:14] [Thread-13/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[16:57:16] [Craft Scheduler Thread - 55 - InteractiveChat/INFO]: [Not Secure] <Friend killerzombie570> this isnt the level for it
+[16:57:19] [Craft Scheduler Thread - 80 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> also im not admin

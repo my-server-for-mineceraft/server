@@ -70,3 +70,7 @@
 (2025-09-03 15:00:49) thegrateminecra was flagged [Check: CriticalsA (Packet)] [Violations: 1/1] [TPS: 20.00] [Ping: 9ms (high stability)] [Client: Fabric] [Location: world -997.73 86.00 -219.53]
 (2025-09-03 15:00:49) thegrateminecra was punished [Check: CriticalsA (Packet)] [Violations: 1/1] [TPS: 20.00]  [Ping: 9ms (high stability)] [Client: Fabric] [Location: world -997.73 86.00 -219.53]
 (2025-09-03 16:21:19) thegrateminecra was flagged [Check: ReachB (Hitbox)] [Violations: 1/6] [TPS: 20.00] [Ping: 8ms (high stability)] [Client: Fabric] [Location: world -1114.64 86.00 -213.47]
+(2025-09-03 16:47:44) killerzombie570 was flagged [Check: KillAuraD (Impossible)] [Violations: 1/5] [TPS: 20.00] [Ping: 140ms (high stability)] [Client: Fabric] [Location: world_the_end -11414.39 1.00 6141.45]
+(2025-09-03 16:47:45) killerzombie570 was flagged [Check: KillAuraD (Impossible)] [Violations: 3/5] [TPS: 20.00] [Ping: 140ms (high stability)] [Client: Fabric] [Location: world_the_end -11414.40 1.06 6142.28]
+(2025-09-03 16:50:17) thegrateminecra was flagged [Check: KillAuraD (Impossible)] [Violations: 1/5] [TPS: 20.00] [Ping: 8ms (high stability)] [Client: Fabric] [Location: world_the_end -11414.59 1.00 6141.56]
+(2025-09-03 16:53:25) killerzombie570 was flagged [Check: FlightC (Vector)] [Violations: 1/40] [TPS: 20.00] [Ping: 144ms (high stability)] [Client: Fabric] [Location: world_nether -1004.13 51.25 -1058.07]

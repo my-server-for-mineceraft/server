@@ -18,16 +18,16 @@ timestamps:
   onlinejail: 0
   logout: 1756845535753
   login: 1756917997427
-money: '1871.80'
+money: '911.00'
 last-account-name: killerzombie570
 lastlocation:
   world: d22c387c-2dea-4b96-ba3a-f8279b6e07c3
   world-name: world_nether
-  x: -124.86181586487494
-  y: 133.0
-  z: -41.179430281963036
-  yaw: 140.73883056640625
-  pitch: 2.8500847816467285
+  x: -135.6675943212496
+  y: 128.0
+  z: -43.74876522341676
+  yaw: -103.35090637207031
+  pitch: 10.950067520141602
 logoutlocation:
   world: b6cbba7f-cd41-4adc-a76e-e720c3568826
   world-name: world
