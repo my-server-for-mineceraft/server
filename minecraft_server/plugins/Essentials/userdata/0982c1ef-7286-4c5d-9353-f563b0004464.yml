@@ -12,13 +12,13 @@ accepting-pay: true
 baltop-exempt: false
 timestamps:
   lastteleport: 1756908115310
-  lastheal: 1756913147667
+  lastheal: 1756916316740
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1756914578286
-  login: 1756915095484
-money: '4167.4599999999997'
+  logout: 1756916708964
+  login: 1756916254147
+money: '4159.4599999999997'
 last-account-name: thegrateminecra
 lastlocation:
   world: b6cbba7f-cd41-4adc-a76e-e720c3568826
