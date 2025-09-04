@@ -16,9 +16,9 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1757008376881
-  login: 1757008378581
-money: '1594.7899999999999004'
+  logout: 1757010010130
+  login: 1757010011436
+money: '580.4899999999999004'
 last-account-name: thegrateminecra
 lastlocation:
   world: b6cbba7f-cd41-4adc-a76e-e720c3568826
@@ -31,9 +31,9 @@ lastlocation:
 logoutlocation:
   world: b6cbba7f-cd41-4adc-a76e-e720c3568826
   world-name: world
-  x: -937.1323398102159
-  y: 71.0
-  z: -199.50039161107185
-  yaw: -108.15022277832031
-  pitch: 26.25013542175293
+  x: -935.4197568803843
+  y: 71.5625
+  z: -194.41018619380384
+  yaw: -102.89964294433594
+  pitch: 36.1500129699707
 nickname: thegrateminecra
