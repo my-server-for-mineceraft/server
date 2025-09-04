@@ -593,7 +593,7 @@ checks:
           java: true
           bedrock: true
       killaura_b:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 8
@@ -608,7 +608,7 @@ checks:
           java: true
           bedrock: true
       killaura_c:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 4
