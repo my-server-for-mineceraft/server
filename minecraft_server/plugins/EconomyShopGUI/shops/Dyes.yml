@@ -129,3 +129,7 @@ pages:
         material: INK_SAC
         buy: 5
         sell: 1.25
+      '33':
+        material: GLOW_INK_SAC
+        buy: 10.0
+        sell: 5.0
