@@ -138,3 +138,4 @@
 (2025-09-04 12:37:24) thegrateminecra was flagged [Check: FlightB (Height)] [Violations: 1/40] [TPS: 20.00] [Ping: 10ms (high stability)] [Client: Fabric] [Location: world_nether 81.76 112.54 190.16]
 (2025-09-04 12:54:29) thegrateminecra was flagged [Check: ElytraB (Acceleration)] [Violations: 1/40] [TPS: 20.00] [Ping: 10ms (high stability)] [Client: Fabric] [Location: world_nether 1099.84 37.54 -2718.45]
 (2025-09-04 12:54:48) thegrateminecra was flagged [Check: ElytraB (Acceleration)] [Violations: 3/40] [TPS: 20.00] [Ping: 10ms (high stability)] [Client: Fabric] [Location: world_nether 918.32 38.61 -2638.82]
+(2025-09-04 14:16:23) thegrateminecra was flagged [Check: SpeedC (Prediction)] [Violations: 1/40] [TPS: 20.00] [Ping: 10ms (high stability)] [Client: Fabric] [Location: world -944.92 71.69 -206.34]
