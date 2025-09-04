@@ -291,3 +291,7 @@ pages:
         material: FIREWORK_ROCKET
         buy: 1.0
         sell: 0.5
+      '29':
+        material: OMINOUS_BOTTLE
+        buy: 500.0
+        sell: 300.0
