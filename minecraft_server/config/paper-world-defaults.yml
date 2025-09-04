@@ -63,7 +63,7 @@ chunks:
   fixed-chunk-inhabited-time: -1
   flush-regions-on-save: false
   max-auto-save-chunks-per-tick: 24
-  prevent-moving-into-unloaded-chunks: false
+  prevent-moving-into-unloaded-chunks: true
 collisions:
   allow-player-cramming-damage: false
   allow-vehicle-collisions: true

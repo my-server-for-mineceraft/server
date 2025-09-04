@@ -623,7 +623,7 @@ checks:
           java: true
           bedrock: true
       killaura_d:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 5
@@ -1050,7 +1050,7 @@ checks:
           bedrock: true
     itemswap:
       itemswap_a:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 4
