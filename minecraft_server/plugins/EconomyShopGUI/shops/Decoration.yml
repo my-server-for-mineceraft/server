@@ -623,3 +623,7 @@ pages:
         material: SOUL_CAMPFIRE
         buy: 20.0
         sell: 10.0
+      '20':
+        material: PUMPKIN
+        buy: 2.0
+        sell: 1.0

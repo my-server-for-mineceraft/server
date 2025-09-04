@@ -493,6 +493,16 @@ help:
   setanchor: Sets your team home's ability to serve as a respawn point
   echest: View your teams ender chest
   setwarp: Set a warp for the rest of your team
+  teamadmin:
+    echest: View and edit that teams ender chest
+    color: Change that teams color
+    teleport: Teleports the specified target to the specified location (or executor's
+      location)
+    description: Change the specified teams description
+    setwarp: Set a warp for that team
+    purge: Reset the score and money for all teams, if you specify an value (i.e.
+      money) only that will be reset
+    title: Change a players title to the specified title
 helpArg:
   delhome: ''
   echest: ''
@@ -536,6 +546,15 @@ helpArg:
   withdraw: <amount>
   anchor: ''
   setanchor: <true/false>
+  teamadmin:
+    echest: <team>
+    color: <team> <color code>
+    teleport: <team <team> | player <player> | all> [home | player <player> | location
+      <x> <y> <z> [yaw] [pitch] [world]]
+    description: <team> <description>
+    setwarp: <team> <name> [password]
+    purge: '[score/money]'
+    title: <player> <title>
 command:
   
   create: create
