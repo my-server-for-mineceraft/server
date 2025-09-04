@@ -169,14 +169,13 @@ blacklist:
 # This is a list of characters wich will not be allowed in team names or tags
 #
 # Possible values: [Any characters]
-bannedChars: ''
-
+bannedChars: ',.!"�$%^&*()[]{};:#~\|`�'
 
 # This is a list of all characters to be allowed in team names or tags
 # - If this is left blank, all characters (except those in bannedChars or color codes) will be allowed in team name
 # 
 # Possible values: [Any characters]
-allowedChars: 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_'
+allowedChars: 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789'
 
 # This is a list of all banned chat colors for team names using /team color <color>
 # - List every character, for example to ban gold and red you would do bannedColors: '64' 
