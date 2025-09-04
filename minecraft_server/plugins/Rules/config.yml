@@ -4,9 +4,12 @@ rulesHeader: '&eServer Rules'
 noPermission: '&cYou do not have permission to do this!'
 consolePermission: You must be a player to use this command!
 rulesMessage:
-- '&e1. &aNo Swearing'
-- '&e2. &aNo Cheating'
-- '&e3. &aNo Racism'
+- '&e1. &aNo being rude to other players in chat eg bullying'
+- '&e2. &aNo using a hacked client to negatively effect other players'
+- '&e3. &aNo chunk banning it removes players which has a negative impact'
+- '&e4. &aNo Lag Machines'
+- '&e5. &a no duping money it rewins the economy'
+- '&e5. &a no duping to sell things'
 rulesCommands:
 - rules
 - laws
