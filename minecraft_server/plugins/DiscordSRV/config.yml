@@ -30,7 +30,7 @@ BotToken: "MTQxMjU0NzgxOTgxMzk5NDU3Nw.GvL1L3.exmRj_D1z-ylYf7S5nBm_JwJ25BykFuhigj
 Channels: {"global": "1412549400953094266"}
 
 # Console channel numerical ID (NOT NAME), leave blank to disable the console channel all together
-DiscordConsoleChannelId: "1412550671986720768"
+DiscordConsoleChannelId: ""
 
 # Invitation link shown to players when using /discord and on the message shown to unlinked players when linking is enforced
 DiscordInviteLink: "https://discord.gg/3Je9FZmRqj"
