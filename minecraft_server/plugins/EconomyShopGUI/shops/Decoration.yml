@@ -627,3 +627,7 @@ pages:
         material: PUMPKIN
         buy: 2.0
         sell: 1.0
+      '21':
+        material: SCAFFOLDING
+        buy: 1.0
+        sell: -1.0
