@@ -670,7 +670,7 @@ checks:
           bedrock: true
     criticals:
       criticals_a:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 1
@@ -685,7 +685,7 @@ checks:
           java: true
           bedrock: true
       criticals_b:
-        enabled: true
+        enabled: false
         punishment:
           punishable: true
           punishment-vio: 3
