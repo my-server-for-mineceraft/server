@@ -377,9 +377,9 @@ auto-removal:
     - Snowball
     - Egg
     - Fireball
-    - Boat !isMounted
-    - Minecart !isMounted
-    - MINECART_TNT
+    #- Boat !isMounted
+    #- Minecart !isMounted
+    #- MINECART_TNT
   # - cow <- This mob-type will be REMOVED during removal!
   # - MINECART_MOB_SPAWNER
   # - Pig liveTime=100 <- This mob will be REMOVED if it's been alive for 100 ticks (5 seconds)
@@ -394,14 +394,14 @@ command-remove:
   world-filter:
   # - this_world <-This world will be ignored during removal!
   broadcast-removal: false
-  boat: true
+  boat: false
   falling-block: true
   experience-orb: true
   painting: false
   projectile: true
   item: true
   itemframe: false
-  minecart: true
+  minecart: false
   primed-tnt: true
   item-filter:
   # - Stone <-This item-id will be ignored during removal!
