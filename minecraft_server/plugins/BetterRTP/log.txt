@@ -1,22 +1,18 @@
-2025-09-04 12:22:42 [INFO]: Loading Overrides...
-2025-09-04 12:22:42 [INFO]: Loading World Types...
-2025-09-04 12:22:42 [INFO]: - World Type for 'world' set to 'NORMAL'
-2025-09-04 12:22:42 [INFO]: - World Type for 'world_nether' set to 'NETHER'
-2025-09-04 12:22:42 [INFO]: - World Type for 'world_the_end' set to 'NORMAL'
-2025-09-04 12:22:42 [INFO]: Loading Defaults...
-2025-09-04 12:22:42 [INFO]: Loading Custom Worlds...
-2025-09-04 12:22:42 [INFO]: [WARN] - Custom World 'custom_world_1' was not registered because world does NOT exist
-2025-09-04 12:22:42 [INFO]: [WARN] - Custom World 'other_custom_world' was not registered because world does NOT exist
-2025-09-04 12:22:42 [SEVERE]: The particle 'EXPLOSION_NORMAL' created a fatal error when loading particles! Your MC version isn't supported!
-2025-09-04 12:22:50 [INFO]: Database PLAYERS:Players configured and loaded!
-2025-09-04 12:22:50 [INFO]: Database COOLDOWN:world configured and loaded!
-2025-09-04 12:22:50 [INFO]: Database COOLDOWN:world_nether configured and loaded!
-2025-09-04 12:22:50 [INFO]: Database COOLDOWN:world_the_end configured and loaded!
-2025-09-04 12:22:50 [INFO]: Database CHUNK_DATA:ChunkData configured and loaded!
-2025-09-04 12:22:50 [INFO]: Database QUEUE:Queue configured and loaded!
-2025-09-04 12:22:51 [INFO]: Attempting to queue up some more safe locations...
-2025-09-04 12:22:52 [INFO]: Queueing paused, max queue limit reached!
-2025-09-04 12:23:23 [INFO]: -Removed a queue Location{world=CraftWorld{name=world_nether},x=-766.5,y=105.0,z=-560.5,pitch=0.89994955,yaw=-154.64677}
-2025-09-04 12:26:32 [INFO]: -Removed a queue Location{world=CraftWorld{name=world_nether},x=274.5,y=59.0,z=-698.5,pitch=19.200054,yaw=-89.84937}
-2025-09-04 12:35:01 [INFO]: -Removed a queue Location{world=CraftWorld{name=world_nether},x=-352.5,y=69.0,z=745.5,pitch=1.200053,yaw=-73.6493}
-2025-09-04 12:44:49 [INFO]: -Removed a queue Location{world=CraftWorld{name=world_nether},x=-823.5,y=45.0,z=-965.5,pitch=67.650085,yaw=-54.599728}
+2025-09-04 12:58:50 [INFO]: Loading Overrides...
+2025-09-04 12:58:50 [INFO]: Loading World Types...
+2025-09-04 12:58:50 [INFO]: - World Type for 'world' set to 'NORMAL'
+2025-09-04 12:58:50 [INFO]: - World Type for 'world_nether' set to 'NETHER'
+2025-09-04 12:58:50 [INFO]: - World Type for 'world_the_end' set to 'NORMAL'
+2025-09-04 12:58:50 [INFO]: Loading Defaults...
+2025-09-04 12:58:50 [INFO]: Loading Custom Worlds...
+2025-09-04 12:58:50 [INFO]: [WARN] - Custom World 'custom_world_1' was not registered because world does NOT exist
+2025-09-04 12:58:50 [INFO]: [WARN] - Custom World 'other_custom_world' was not registered because world does NOT exist
+2025-09-04 12:58:50 [SEVERE]: The particle 'EXPLOSION_NORMAL' created a fatal error when loading particles! Your MC version isn't supported!
+2025-09-04 12:58:58 [INFO]: Database PLAYERS:Players configured and loaded!
+2025-09-04 12:58:58 [INFO]: Database QUEUE:Queue configured and loaded!
+2025-09-04 12:58:58 [INFO]: Database COOLDOWN:world configured and loaded!
+2025-09-04 12:58:58 [INFO]: Database COOLDOWN:world_nether configured and loaded!
+2025-09-04 12:58:58 [INFO]: Database COOLDOWN:world_the_end configured and loaded!
+2025-09-04 12:58:58 [INFO]: Database CHUNK_DATA:ChunkData configured and loaded!
+2025-09-04 12:58:58 [INFO]: Attempting to queue up some more safe locations...
+2025-09-04 12:59:00 [INFO]: Queueing paused, max queue limit reached!
