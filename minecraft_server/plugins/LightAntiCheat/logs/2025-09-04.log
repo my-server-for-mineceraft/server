@@ -134,3 +134,5 @@
 (2025-09-04 12:05:06) thegrateminecra was flagged [Check: CriticalsA (Packet)] [Violations: 1/1] [TPS: 20.00] [Ping: 9ms (high stability)] [Client: Fabric] [Location: world -926.02 67.23 -222.44]
 (2025-09-04 12:05:11) thegrateminecra was flagged [Check: CriticalsA (Packet)] [Violations: 1/1] [TPS: 19.99] [Ping: 9ms (high stability)] [Client: Fabric] [Location: world -926.43 67.00 -226.91]
 (2025-09-04 12:05:11) thegrateminecra was punished [Check: CriticalsA (Packet)] [Violations: 1/1] [TPS: 19.99]  [Ping: 9ms (high stability)] [Client: Fabric] [Location: world -926.43 67.00 -226.91]
+(2025-09-04 12:29:20) thegrateminecra was flagged [Check: BlockBreakA (Rotation)] [Violations: 1/10] [TPS: 20.00] [Ping: 10ms (high stability)] [Client: Fabric] [Location: world_nether 542.54 74.00 -2481.74]
+(2025-09-04 12:37:24) thegrateminecra was flagged [Check: FlightB (Height)] [Violations: 1/40] [TPS: 20.00] [Ping: 10ms (high stability)] [Client: Fabric] [Location: world_nether 81.76 112.54 190.16]
