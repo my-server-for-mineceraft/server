@@ -2,3 +2,6 @@
 (2025-09-05 00:38:05) thegrateminecra was flagged [Check: KillAuraA (AimBot)] [Violations: 1/6] [TPS: 20.00] [Ping: 9ms (high stability)] [Client: Fabric] [Location: world_the_end -11415.73 1.06 6145.23]
 (2025-09-05 00:38:14) thegrateminecra was flagged [Check: KillAuraA (AimBot)] [Violations: 2/6] [TPS: 20.00] [Ping: 9ms (high stability)] [Client: Fabric] [Location: world_the_end -11415.53 1.06 6144.65]
 (2025-09-05 10:44:50) thegrateminecra was flagged [Check: ElytraC (Takeoff)] [Violations: 1/12] [TPS: 20.00] [Ping: 8ms (high stability)] [Client: Fabric] [Location: world_the_end -11422.61 -37.31 6139.59]
+(2025-09-05 11:09:15) thegrateminecra was flagged [Check: FlightC (Vector)] [Violations: 1/40] [TPS: 20.00] [Ping: 8ms (high stability)] [Client: Fabric] [Location: world -950.32 72.20 -213.30]
+(2025-09-05 11:09:22) thegrateminecra was flagged [Check: FlightC (Vector)] [Violations: 36/40] [TPS: 20.00] [Ping: 8ms (high stability)] [Client: Fabric] [Location: world -946.30 72.20 -213.30]
+(2025-09-05 11:09:22) thegrateminecra was punished [Check: FlightC (Vector)] [Violations: 40/40] [TPS: 20.00]  [Ping: 8ms (high stability)] [Client: Fabric] [Location: world -946.30 72.20 -213.30]
