@@ -17,7 +17,7 @@ while true; do
     git commit -m "Auto-save: $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
     git push origin main
 
-    SLEEP_TIME=$((600 + RANDOM % 1200))
+    SLEEP_TIME=$((600 + RANDOM % 600))
     echo "Next auto-commit in $SLEEP_TIME seconds..."
     sleep $SLEEP_TIME
 done
