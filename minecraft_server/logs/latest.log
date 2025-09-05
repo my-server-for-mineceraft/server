@@ -3299,3 +3299,131 @@ java.lang.IllegalArgumentException: Cannot translate null text
 [15:30:03] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
 [15:30:03] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
 [15:30:03] [nioEventLoopGroup-2-2/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[15:30:17] [Craft Scheduler Thread - 178 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> ill send u mods
+[15:30:19] [Craft Scheduler Thread - 169 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> and everything
+[15:30:23] [Craft Scheduler Thread - 169 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> i wawna go to space with u :D
+[15:30:35] [Craft Scheduler Thread - 179 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> kk
+[15:30:37] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | Friends] killerzombie570 > How do I skip the end creditr
+[15:30:42] [Craft Scheduler Thread - 139 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> press esc
+[15:30:49] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | Friends] killerzombie570 > Thx
+[15:30:51] [Craft Scheduler Thread - 173 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> np
+[15:31:01] [Craft Scheduler Thread - 178 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> can i stop the server
+[15:31:03] [Thread-27/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=147.185.221.31:33863, peerAddr=185.188.40.47:54328, claimAddress=209.25.141.2:43784, claimToken=[44, 0, 68, -109, -71, -35, 31, -124, 71, -71, -68, 40, 47, -44, 56, -42, -96, 106, -34, -85, 8, 104, -69, 2, 55, 0, 0, 0, 0, 0, 10, -61, -85, 0, 0, 0, 0, 0, 75, -89, 29, 0, 0, 0, 0, 0, 34, -72, 14, 41, -34, -85, 8, 0, 0, 0, 0, 38, 0, 0, 0, 0, 0, 0, 0, 1, 0, 3, 29, -15, 42, 103, 31, 11, 23, 119, 42, -100, -96, -74, 90, 60, -21, -101], tunnelServerId=1, dataCenterId=38}
+[15:31:03] [Thread-27/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[15:31:03] [Thread-27/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.141.2:43784 to claim client
+[15:31:03] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[15:31:03] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[15:31:03] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[15:31:03] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
+[15:31:03] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
+[15:31:03] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[15:31:03] [nioEventLoopGroup-2-4/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[15:31:03] [Thread-27/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=147.185.221.31:33863, peerAddr=185.188.40.47:54332, claimAddress=209.25.141.2:43784, claimToken=[44, 0, 68, -109, -71, -35, 31, -124, 71, -71, -68, 40, 47, -44, 60, 92, -35, -121, -18, -85, 8, 104, -69, 2, 55, 0, 0, 0, 0, 0, 10, -61, -85, 0, 0, 0, 0, 0, 75, -89, 29, 0, 0, 0, 0, 0, 34, -72, 14, -66, -18, -85, 8, 0, 0, 0, 0, 38, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 30, 33, -112, -89, -77, -126, -57, -67, 97, -28, 57, 17, 13, -45, -73, 122], tunnelServerId=1, dataCenterId=38}
+[15:31:03] [Thread-27/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[15:31:03] [Thread-27/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.141.2:43784 to claim client
+[15:31:03] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[15:31:03] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[15:31:03] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[15:31:03] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
+[15:31:03] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
+[15:31:03] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[15:31:03] [nioEventLoopGroup-2-2/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[15:31:05] [Craft Scheduler Thread - 164 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> so i can make a modded server
+[15:31:07] [Craft Scheduler Thread - 157 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> for us to play >
+[15:31:23] [Craft Scheduler Thread - 179 - InteractiveChat/INFO]: [grates] **Owner> thegrateminecra: ??
+[15:31:24] [Craft Scheduler Thread - 169 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> BRO
+[15:31:27] [Craft Scheduler Thread - 183 - InteractiveChat/INFO]: [Not Secure] <Owner> thegrateminecra> alr ima just make it
+[15:31:29] [Server thread/INFO]: thegrateminecra issued server command: /stop
+[15:31:29] [Server thread/INFO]: [grates thegrateminecra: Stopping the server]
+[15:31:29] [Server thread/INFO]: Stopping server
+[15:31:29] [Server thread/INFO]: [NexusAuctionHouse] Disabling NexusAuctionHouse v2.2.1
+[15:31:29] [Server thread/INFO]: [InteractiveChat] Disabling InteractiveChat v4.3.2.0
+[15:31:29] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion interactivechat
+[15:31:29] [Server thread/INFO]: [PlaceholderAPI] Reason: required plugin InteractiveChat was disabled.
+[15:31:29] [Server thread/INFO]: [InteractiveChat] InteractiveChat has been Disabled!
+[15:31:29] [Server thread/INFO]: [Rules] Disabling Rules v1.5
+[15:31:29] [Server thread/INFO]: [Back] Disabling Back v1.8.6
+[15:31:29] [Server thread/INFO]: ----------------------------
+[15:31:29] [Server thread/INFO]: Back Plugin Disabled!
+[15:31:29] [Server thread/INFO]: Plugin developed by GFelberg
+[15:31:29] [Server thread/INFO]: ----------------------------
+[15:31:29] [Server thread/INFO]: [EconomyShopGUI] Disabling EconomyShopGUI v6.14.5
+[15:31:29] [Server thread/INFO]: [AxInventoryRestore] Disabling AxInventoryRestore v3.8.2
+[15:31:29] [Server thread/INFO]: [DoubleDoors] Disabling DoubleDoors v1.4
+[15:31:29] [Server thread/INFO]: [DoubleDoors] DoubleDoors has been disabled!
+[15:31:29] [Server thread/INFO]: [OnePlayerSleep] Disabling OnePlayerSleep v1.3
+[15:31:29] [Server thread/INFO]: [LightAntiCheat] Disabling LightAntiCheat v1.2.6
+[15:31:29] [Server thread/INFO]: [playit-gg] Disabling playit-gg v0.1.4
+[15:31:29] [Server thread/INFO]: [AxVaults] Disabling AxVaults v2.9.2
+[15:31:29] [Server thread/INFO]: [LifeStealZ] Disabling LifeStealZ v2.18.0
+[15:31:29] [Server thread/INFO]: [LifeStealZ] Canceling all running tasks...
+[15:31:29] [Server thread/INFO]: [LifeStealZ] LifeStealZ disabled!
+[15:31:29] [Server thread/INFO]: [AxTrade] Disabling AxTrade v1.19.2
+[15:31:29] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.4.2
+[15:31:29] [Server thread/INFO]: [PvPManager] Disabling PvPManager v3.19.10
+[15:31:29] [Server thread/INFO]: [PvPManager] Saving player data to storage...
+[15:31:29] [Server thread/INFO]: [PvPManager] Closed SQLITE storage
+[15:31:29] [Server thread/INFO]: [Ender] Disabling Ender v1.0
+[15:31:29] [Server thread/INFO]: [Ender] has been disabled
+[15:31:29] [Server thread/INFO]: [Chunky] Disabling Chunky v1.4.40
+[15:31:29] [Server thread/INFO]: [BetterTeams] Disabling BetterTeams v4.14.0
+[15:31:29] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
+[15:31:29] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[15:31:29] [Server thread/INFO]: [SynkLibs] Disabling SynkLibs v1.8.3
+[15:31:29] [Server thread/INFO]: [DiscordSRV] Disabling DiscordSRV v1.30.0
+[15:31:29] [DiscordSRV - Shutdown/INFO]: [DiscordSRV] Shutdown completed in 302ms
+[15:31:29] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.4.0
+[15:31:29] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.22.0-dev+20-81ac6f7
+[15:31:29] [Server thread/INFO]: [TAB] Disabling TAB v5.2.5
+[15:31:29] [Server thread/INFO]: [TAB] Disabled in 7ms
+[15:31:29] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.14+2339-43997ec
+[15:31:29] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[15:31:29] [Server thread/INFO]: [Essentials] Disabling Essentials v2.22.0-dev+19-7bc91f1
+[15:31:29] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[15:31:29] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[15:31:29] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.16+cbf4bd5
+[15:31:29] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[15:31:29] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[15:31:29] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.11
+[15:31:29] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[15:31:29] [Server thread/INFO]: [LuckPerms] Closing storage...
+[15:31:29] [Server thread/INFO]: [LuckPerms] Goodbye!
+[15:31:29] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.4.2
+[15:31:29] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[15:31:29] [Server thread/INFO]: Saving players
+[15:31:29] [Server thread/INFO]: thegrateminecra lost connection: Server closed
+[15:31:29] [Server thread/INFO]: thegrateminecra left the game
+[15:31:29] [Server thread/INFO]: killerzombie570 lost connection: Server closed
+[15:31:29] [Server thread/INFO]: killerzombie570 left the game
+[15:31:29] [nioEventLoopGroup-2-4/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to minecraft server
+[15:31:30] [Server thread/INFO]: Saving worlds
+[15:31:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:31:30] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[15:31:30] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[15:31:30] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[15:31:30] [Thread-27/INFO]: [gg.playit.minecraft.PlayitManager] control channel shutdown
+[15:31:32] [Server thread/INFO]: [ChunkHolderManager] Saved 1798 block chunks, 1866 entity chunks, 1 poi chunks in world 'world' in 2.85s
+[15:31:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[15:31:32] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[15:31:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[15:31:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[15:31:32] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[15:31:32] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[15:31:32] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 1 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[15:31:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[15:31:32] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[15:31:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[15:31:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[15:31:32] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[15:31:32] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[15:31:32] [Server thread/INFO]: [ChunkHolderManager] Saved 2 block chunks, 74 entity chunks, 0 poi chunks in world 'world_the_end' in 0.02s
+[15:31:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[15:31:32] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[15:31:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:31:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:31:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:31:33] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:31:33] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[15:31:33] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[15:31:33] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[15:31:33] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
