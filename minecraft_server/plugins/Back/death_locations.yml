@@ -1,9 +1,1 @@
-DeathLocations:
-  0982c1ef-7286-4c5d-9353-f563b0004464:
-    Player: thegrateminecra
-    World: world_the_end
-    X: -11414.465971402902
-    Y: -212.8195085262499
-    Z: 6140.711822215633
-    Yaw: 169.04178
-    Pitch: -27.450089
+DeathLocations: {}
