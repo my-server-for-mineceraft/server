@@ -1,0 +1,33 @@
+spawns:
+  default:
+    world: b6cbba7f-cd41-4adc-a76e-e720c3568826
+    world-name: world
+    x: -23.53601901820489
+    y: 81.0
+    z: -6.763743883426857
+    yaw: -88.50471496582031
+    pitch: 10.800042152404785
+  group owner:
+    world: b6cbba7f-cd41-4adc-a76e-e720c3568826
+    world-name: world
+    x: -23.53601901820489
+    y: 81.0
+    z: -6.763743883426857
+    yaw: -92.55474090576172
+    pitch: 7.200043678283691
+  owner:
+    world: b6cbba7f-cd41-4adc-a76e-e720c3568826
+    world-name: world
+    x: -23.53601901820489
+    y: 81.0
+    z: -6.763743883426857
+    yaw: -92.55474090576172
+    pitch: 7.200043678283691
+  friends:
+    world: b6cbba7f-cd41-4adc-a76e-e720c3568826
+    world-name: world
+    x: -23.53601901820489
+    y: 81.0
+    z: -6.763743883426857
+    yaw: -92.55474090576172
+    pitch: 7.200043678283691
