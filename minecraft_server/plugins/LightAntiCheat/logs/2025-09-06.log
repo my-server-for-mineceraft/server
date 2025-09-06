@@ -201,3 +201,7 @@
 (2025-09-06 18:53:42) thegrateminecra was flagged [Check: FlightC (Vector)] [Violations: 9/40] [TPS: 20.00] [Ping: 9ms (high stability)] [Client: Fabric] [Location: world -27078.36 64.24 9110.93]
 (2025-09-06 18:57:37) thegrateminecra was flagged [Check: ElytraB (Acceleration)] [Violations: 1/40] [TPS: 20.00] [Ping: 9ms (high stability)] [Client: Fabric] [Location: world -28418.70 82.14 8868.49]
 (2025-09-06 18:58:16) thegrateminecra was flagged [Check: ElytraB (Acceleration)] [Violations: 1/40] [TPS: 20.00] [Ping: 9ms (high stability)] [Client: Fabric] [Location: world -28597.17 120.76 9022.05]
+(2025-09-06 18:58:39) thegrateminecra was flagged [Check: ElytraB (Acceleration)] [Violations: 5/40] [TPS: 20.00] [Ping: 10ms (high stability)] [Client: Fabric] [Location: world -28801.13 89.64 8951.82]
+(2025-09-06 18:58:40) thegrateminecra was flagged [Check: ElytraB (Acceleration)] [Violations: 16/40] [TPS: 20.00] [Ping: 10ms (high stability)] [Client: Fabric] [Location: world -28801.13 103.14 8951.82]
+(2025-09-06 18:59:00) thegrateminecra was flagged [Check: ElytraA (Speed)] [Violations: 1/40] [TPS: 20.00] [Ping: 10ms (high stability)] [Client: Fabric] [Location: world -29045.93 127.80 8987.26]
+(2025-09-06 18:59:01) thegrateminecra was flagged [Check: ElytraA (Speed)] [Violations: 8/40] [TPS: 20.00] [Ping: 10ms (high stability)] [Client: Fabric] [Location: world -29077.34 118.71 8986.69]
