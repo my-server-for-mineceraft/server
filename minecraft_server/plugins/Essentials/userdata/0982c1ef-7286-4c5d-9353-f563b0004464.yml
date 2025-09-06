@@ -4,7 +4,7 @@ godmode: false
 muted: false
 jailed: false
 ip-address: 127.0.0.1
-afk: true
+afk: false
 socialspy: false
 npc: false
 powertoolsenabled: true
@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1757163614299
+  logout: 1757167050244
   login: 1757163616115
 money: '1095.6699999999998154'
 last-account-name: thegrateminecra
@@ -31,9 +31,9 @@ lastlocation:
 logoutlocation:
   world: b6cbba7f-cd41-4adc-a76e-e720c3568826
   world-name: world
-  x: -2573.946219429776
-  y: 74.0
-  z: 944.6701418457016
-  yaw: 52.95147705078125
-  pitch: 33.750091552734375
+  x: -934.5
+  y: 71.875
+  z: -193.5
+  yaw: 93.29998779296875
+  pitch: -39.30002212524414
 nickname: thegrateminecra
