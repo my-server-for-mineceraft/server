@@ -10,21 +10,45 @@
 # REMEMBER TO KEEP PERIODICAL BACKUPS.
 #
 regions:
+    pvpiing:
+        min: {x: 150, y: -64, z: 156}
+        max: {x: 198, y: 319, z: 202}
+        members: {}
+        flags: {}
+        owners: {}
+        type: cuboid
+        priority: 0
     spawn:
         min: {x: -34, y: -64, z: -19}
         max: {x: -6, y: 319, z: 7}
         members: {}
         flags: {natural-health-regen: allow, lava-fire: deny, water-flow: deny, use: deny,
-            invincible: allow, block-trampling: deny, ice-melt: deny, snow-fall: deny,
+            invincible: allow, snow-fall: deny, ice-melt: deny, block-trampling: deny,
             interact: deny, vehicle-destroy: deny, chest-access: deny, firework-damage: deny,
             ride: deny, fire-spread: deny, enderdragon-block-damage: deny, sleep: deny,
-            vehicle-place: deny, wind-charge-burst: deny, mob-damage: deny, ravager-grief: deny,
-            entity-painting-destroy: deny, use-anvil: deny, respawn-anchors: deny,
-            lightning: deny, ice-form: deny, lighter: deny, use-dripleaf: deny, pvp: deny,
-            mob-spawning: deny, natural-hunger-drain: deny, item-drop: allow, creeper-explosion: deny,
+            vehicle-place: deny, wind-charge-burst: deny, mob-damage: deny, entity-painting-destroy: deny,
+            ravager-grief: deny, respawn-anchors: deny, use-anvil: deny, lightning: deny,
+            ice-form: deny, lighter: deny, use-dripleaf: deny, pvp: deny, mob-spawning: deny,
+            natural-hunger-drain: deny, item-drop: allow, creeper-explosion: deny,
             exp-drops: deny, fall-damage: deny, item-pickup: allow, item-frame-rotation: deny,
             potion-splash: deny, damage-animals: deny, snow-melt: deny, lava-flow: deny,
             tnt: deny, ghast-fireball: deny}
+        owners: {}
+        type: cuboid
+        priority: 0
+    pvping:
+        min: {x: 150, y: -64, z: 156}
+        max: {x: 198, y: 319, z: 202}
+        members: {}
+        flags: {pvp: allow}
+        owners: {}
+        type: cuboid
+        priority: 0
+    pvp:
+        min: {x: 127, y: -64, z: 140}
+        max: {x: 223, y: 319, z: 215}
+        members: {}
+        flags: {mob-damage: deny, interact: deny, pvp: deny, mob-spawning: deny}
         owners: {}
         type: cuboid
         priority: 0
