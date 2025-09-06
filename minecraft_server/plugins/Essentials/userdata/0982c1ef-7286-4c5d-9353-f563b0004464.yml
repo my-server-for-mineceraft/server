@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1757154521906
+  lastteleport: 1757155883890
   lastheal: 1757014079932
   mute: 0
   jail: 0
@@ -23,11 +23,11 @@ last-account-name: thegrateminecra
 lastlocation:
   world: b6cbba7f-cd41-4adc-a76e-e720c3568826
   world-name: world
-  x: -937.4936786659713
-  y: 71.0
-  z: -199.5071204039402
-  yaw: -90.30685424804688
-  pitch: 26.399803161621094
+  x: 175.49887815201154
+  y: 129.0
+  z: 209.49306166347998
+  yaw: 170.82080078125
+  pitch: 30.299890518188477
 logoutlocation:
   world: b6cbba7f-cd41-4adc-a76e-e720c3568826
   world-name: world
