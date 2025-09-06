@@ -2,3 +2,8 @@
 (2025-09-06 10:35:32) thegrateminecra was flagged [Check: FlightC (Vector)] [Violations: 1/40] [TPS: 20.00] [Ping: 0ms (high stability)] [Client: Fabric] [Location: world 66.60 71.41 86.73]
 (2025-09-06 10:35:33) thegrateminecra was flagged [Check: FlightC (Vector)] [Violations: 1/40] [TPS: 20.00] [Ping: 10ms (high stability)] [Client: Fabric] [Location: world 73.44 69.30 95.25]
 (2025-09-06 10:35:33) thegrateminecra was punished [Check: FlightC (Vector)] [Violations: 40/40] [TPS: 20.00]  [Ping: 10ms (high stability)] [Client: Fabric] [Location: world 73.44 69.30 95.25]
+(2025-09-06 13:00:08) thegrateminecra was flagged [Check: FastBreakA (MiningSpeed)] [Violations: 1/15] [TPS: 20.00] [Ping: 9ms (high stability)] [Client: Fabric] [Location: world -2560.76 73.00 942.23]
+(2025-09-06 13:00:11) thegrateminecra was flagged [Check: FastBreakA (MiningSpeed)] [Violations: 5/15] [TPS: 20.00] [Ping: 9ms (high stability)] [Client: Fabric] [Location: world -2569.66 74.00 942.21]
+(2025-09-06 13:00:12) thegrateminecra was flagged [Check: FastBreakA (MiningSpeed)] [Violations: 7/15] [TPS: 20.00] [Ping: 9ms (high stability)] [Client: Fabric] [Location: world -2574.95 74.00 944.95]
+(2025-09-06 13:00:13) thegrateminecra was flagged [Check: FastBreakA (MiningSpeed)] [Violations: 12/15] [TPS: 20.00] [Ping: 9ms (high stability)] [Client: Fabric] [Location: world -2574.28 74.00 946.68]
+(2025-09-06 13:00:14) thegrateminecra was punished [Check: FastBreakA (MiningSpeed)] [Violations: 15/15] [TPS: 20.00]  [Ping: 9ms (high stability)] [Client: Fabric] [Location: world -2573.84 74.00 944.85]
