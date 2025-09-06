@@ -150,3 +150,7 @@
 (2025-09-06 17:50:02) thegrateminecra was flagged [Check: FlightA (Acceleration)] [Violations: 1/40] [TPS: 20.00] [Ping: 9ms (high stability)] [Client: Fabric] [Location: world -18994.74 163.45 10113.03]
 (2025-09-06 17:50:04) thegrateminecra was flagged [Check: SpeedC (Prediction)] [Violations: 9/40] [TPS: 20.00] [Ping: 9ms (high stability)] [Client: Fabric] [Location: world -18984.91 158.60 10109.74]
 (2025-09-06 17:50:05) thegrateminecra was flagged [Check: SpeedC (Prediction)] [Violations: 32/40] [TPS: 20.00] [Ping: 9ms (high stability)] [Client: Fabric] [Location: world -18972.55 155.18 10104.88]
+(2025-09-06 17:58:34) thegrateminecra was flagged [Check: JumpB (Height)] [Violations: 1/20] [TPS: 20.00] [Ping: 9ms (high stability)] [Client: Fabric] [Location: world -18667.53 71.02 9323.39]
+(2025-09-06 17:58:36) thegrateminecra was flagged [Check: FlightB (Height)] [Violations: 1/40] [TPS: 20.00] [Ping: 8ms (high stability)] [Client: Fabric] [Location: world -18664.48 71.08 9322.07]
+(2025-09-06 18:00:38) thegrateminecra was flagged [Check: LiquidWalkB (Jesus)] [Violations: 1/40] [TPS: 20.00] [Ping: 10ms (high stability)] [Client: Fabric] [Location: world -18688.24 63.12 9213.53]
+(2025-09-06 18:00:39) thegrateminecra was flagged [Check: LiquidWalkB (Jesus)] [Violations: 6/40] [TPS: 20.00] [Ping: 10ms (high stability)] [Client: Fabric] [Location: world -18695.07 63.12 9208.98]
