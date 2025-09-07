@@ -1,6 +1,6 @@
 location: world:-938.180:73.054:-204.032
 enabled: true
-display-range: 48
+display-range: 10
 update-range: 48
 update-interval: 20
 facing: 0.0

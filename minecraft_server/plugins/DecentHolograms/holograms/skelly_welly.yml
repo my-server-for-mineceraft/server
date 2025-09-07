@@ -1,0 +1,12 @@
+location: world:-963.030:72.751:-205.292
+enabled: true
+display-range: 20
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: Skelly wellys home -- do not kill skelly_welly
+    height: 0.3
+  actions: {}
