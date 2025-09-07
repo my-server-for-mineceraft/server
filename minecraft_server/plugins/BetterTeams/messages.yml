@@ -616,6 +616,7 @@ command:
   deposit: deposit
   bal: bal
   withdraw: withdraw
+  holo: holo
 webhook:
   
   unknownPlayer: an unknown player

@@ -1,0 +1,12 @@
+location: world:-20.267:82.495:-6.511
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: welcome to spawn
+    height: 0.3
+  actions: {}
