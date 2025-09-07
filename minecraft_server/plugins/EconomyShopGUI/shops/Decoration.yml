@@ -619,15 +619,3 @@ pages:
         material: WILD_ARMOR_TRIM_SMITHING_TEMPLATE
         buy: 197.18
         sell: 49.3
-      '19':
-        material: SOUL_CAMPFIRE
-        buy: 20.0
-        sell: 10.0
-      '20':
-        material: PUMPKIN
-        buy: 2.0
-        sell: 1.0
-      '21':
-        material: SCAFFOLDING
-        buy: 1.0
-        sell: -1.0

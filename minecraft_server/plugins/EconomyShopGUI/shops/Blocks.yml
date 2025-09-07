@@ -241,7 +241,7 @@ pages:
         sell: 1.97
       '71':
         material: WHITE_CONCRETE
-        buy: 1.0
+        buy: 8.01
         sell: 2.01
       '72':
         material: YELLOW_CONCRETE
@@ -1003,19 +1003,3 @@ pages:
         material: YELLOW_WOOL
         buy: 29.4
         sell: 7.35
-      '24':
-        material: SOUL_SOIL
-        buy: 20.0
-        sell: 10.0
-      '25':
-        material: BLUE_ICE
-        buy: 40.0
-        sell: 20.0
-      '26':
-        material: BIRCH_LEAVES
-        buy: 1.0
-        sell: 0.2
-      '27':
-        material: SMOOTH_STONE
-        buy: 1.0
-        sell: 0.2

@@ -29,6 +29,10 @@ pages:
         material: COD_BUCKET
         buy: 25.77
         sell: 6.45
+      '8':
+        material: ELYTRA
+        buy: 2415.2
+        sell: -1
       '9':
         material: ENDER_CHEST
         buy: 273.12
@@ -118,7 +122,7 @@ pages:
       '27':
         material: SALMON_BUCKET
         buy: 25.77
-        sell: 2400.0
+        sell: 6.45
       '28':
         material: SCAFFOLDING
         buy: 1.33
@@ -151,6 +155,14 @@ pages:
         material: TADPOLE_BUCKET
         buy: 19.47
         sell: 4.87
+      '36':
+        material: TOTEM_OF_UNDYING
+        buy: 100
+        sell: 25
+      '37':
+        material: TRIDENT
+        buy: 180
+        sell: 45
       '38':
         material: TROPICAL_FISH_BUCKET
         buy: 25.77
@@ -175,6 +187,10 @@ pages:
         material: WRITABLE_BOOK
         buy: 48.95
         sell: 12.24
+      '44':
+        material: CREEPER_BANNER_PATTERN
+        buy: 630.12
+        sell: 157.53
   page2:
     items:
       '45':
@@ -261,37 +277,8 @@ pages:
         material: SCULK_SHRIEKER
         buy: 20000
         sell: 5000
-      '23':
-        material: NETHER_STAR
-        lore:
-        - '&7Rightclick to use'
-        buy: 500000.0
-        sell: 200000.0
-        name: §cHeart
-      '24':
-        material: SMOOTH_STONE
-        displayname: '#979797Gunpowder'
-        buy: 0.4
-        sell: 0.2
-      '25':
-        material: FLINT_AND_STEEL
-        displayname: '#979797Gunpowder'
-        buy: 20.0
-        sell: 10.0
-      '26':
-        material: TORCH
-        displayname: '#979797Gunpowder'
-        buy: 1.0
-        sell: 0.4
-      '27':
-        material: ANVIL
-        buy: 40.0
-        sell: 20.0
-      '28':
-        material: FIREWORK_ROCKET
-        buy: 1.0
-        sell: 0.5
-      '29':
+      '66':
         material: OMINOUS_BOTTLE
-        buy: 500.0
-        sell: 300.0
+        buy: 17500
+        sell: 3875
+        ominous-strength: 5
