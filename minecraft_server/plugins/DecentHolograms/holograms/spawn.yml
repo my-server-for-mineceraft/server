@@ -1,4 +1,4 @@
-location: world:-20.267:82.495:-6.511
+location: world:-20.092:83.908:-5.970
 enabled: true
 display-range: 48
 update-range: 48
@@ -7,6 +7,12 @@ facing: 0.0
 down-origin: false
 pages:
 - lines:
-  - content: welcome to spawn
+  - content: welcome to spawn hope you have a good time
+    height: 0.3
+  - content: before you /rtp please read rules with /rules
+    height: 0.3
+  - content: reminder you can use /spawn or /warp spawn to get back
+    height: 0.3
+  - content: you can also do /warp pvp if you want to pvp in the pvp arena
     height: 0.3
   actions: {}

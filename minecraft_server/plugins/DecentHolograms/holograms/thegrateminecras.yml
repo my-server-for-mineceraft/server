@@ -1,0 +1,13 @@
+location: world:-938.180:73.054:-204.032
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: Thegrateminecras base -- owners base
+  - content: do not greef
+    height: 0.3
+  actions: {}
