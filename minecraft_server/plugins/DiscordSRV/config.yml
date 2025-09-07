@@ -9,7 +9,7 @@ ConfigVersion: 1.30.0
 BotToken: ""
 
 # Channel links from game to Discord
-# syntax is Channels: {"in-game channel name from Minecraft": "numerical channel ID from Discord", "another in-game channel name from Minecraft": "another numerical channel ID from Discord"}
+# syntax is Channels: {"in-game channel name from Minecgraft": "numerical channel ID from Discord", "another in-game channel name from Minecraft": "another numerical channel ID from Discord"}
 #
 # All of DiscordSRV's messages will go to the first channel unless there's a channel for that type of messages defined:
 # when using a compatible chat plugin, the channel name will be the one from that plugin (for chat messages)
