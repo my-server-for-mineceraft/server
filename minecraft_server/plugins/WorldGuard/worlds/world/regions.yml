@@ -22,17 +22,19 @@ regions:
         min: {x: -34, y: -64, z: -19}
         max: {x: -6, y: 319, z: 7}
         members: {}
-        flags: {natural-health-regen: allow, lava-fire: deny, water-flow: deny, use: deny,
-            invincible: allow, snow-fall: deny, ice-melt: deny, block-trampling: deny,
-            interact: deny, vehicle-destroy: deny, chest-access: deny, ride: deny,
-            firework-damage: deny, fire-spread: deny, enderdragon-block-damage: deny,
-            sleep: deny, vehicle-place: deny, wind-charge-burst: deny, mob-damage: deny,
-            ravager-grief: deny, entity-painting-destroy: deny, respawn-anchors: deny,
-            use-anvil: deny, lightning: deny, ice-form: deny, lighter: deny, use-dripleaf: deny,
-            pvp: deny, mob-spawning: deny, natural-hunger-drain: deny, item-drop: allow,
-            creeper-explosion: deny, exp-drops: deny, fall-damage: deny, item-pickup: allow,
-            item-frame-rotation: deny, potion-splash: deny, damage-animals: deny,
-            snow-melt: deny, tnt: deny, lava-flow: deny, ghast-fireball: deny}
+        flags: {other-explosion: deny, lava-fire: deny, water-flow: deny, invincible: allow,
+            use: deny, snow-fall: deny, leaf-decay: deny, firework-damage: deny, coral-fade: deny,
+            wind-charge-burst: deny, mob-damage: deny, ravager-grief: deny, use-anvil: deny,
+            respawn-anchors: deny, lightning: deny, wither-damage: deny, ice-form: deny,
+            enderman-grief: deny, pvp: deny, mob-spawning: deny, natural-hunger-drain: deny,
+            creeper-explosion: deny, damage-animals: deny, snow-melt: deny, tnt: deny,
+            ghast-fireball: deny, natural-health-regen: allow, block-trampling: deny,
+            ice-melt: deny, vehicle-destroy: deny, interact: deny, chest-access: deny,
+            ride: deny, fire-spread: deny, enderdragon-block-damage: deny, sleep: deny,
+            vehicle-place: deny, entity-painting-destroy: deny, breeze-charge-explosion: deny,
+            lighter: deny, use-dripleaf: deny, item-drop: allow, exp-drops: deny,
+            copper-fade: deny, fall-damage: deny, item-frame-rotation: deny, item-pickup: allow,
+            potion-splash: deny, lava-flow: deny}
         owners: {}
         type: cuboid
         priority: 0
@@ -40,8 +42,8 @@ regions:
         min: {x: -27571, y: -64, z: -158}
         max: {x: -27479, y: 319, z: -105}
         members: {}
-        flags: {vehicle-destroy: allow, lighter: allow, interact: allow, enderman-grief: deny,
-            pistons: allow, chest-access: allow, mob-spawning: deny, ride: allow,
+        flags: {vehicle-destroy: allow, interact: allow, lighter: allow, enderman-grief: deny,
+            chest-access: allow, pistons: allow, ride: allow, mob-spawning: deny,
             fire-spread: deny, sleep: allow, vehicle-place: allow, potion-splash: allow,
             damage-animals: allow, tnt: deny, respawn-anchors: deny}
         owners:

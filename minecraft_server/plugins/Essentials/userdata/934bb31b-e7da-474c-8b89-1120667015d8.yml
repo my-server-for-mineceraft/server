@@ -16,9 +16,9 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1757446817146
-  login: 1757446899435
-money: '207.029999999999999'
+  logout: 1757450622753
+  login: 1757450527676
+money: '163.509999999999999'
 last-account-name: Smactus
 lastlocation:
   world: b6cbba7f-cd41-4adc-a76e-e720c3568826
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: b6cbba7f-cd41-4adc-a76e-e720c3568826
   world-name: world
-  x: -1853.2612620629614
-  y: 85.0
-  z: -957.9742070295562
-  yaw: -174.2995147705078
-  pitch: 31.350051879882812
+  x: -27531.09628631194
+  y: 64.79673560066871
+  z: -133.27344815926762
+  yaw: 86.88621520996094
+  pitch: 11.400007247924805
