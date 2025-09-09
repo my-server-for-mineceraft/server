@@ -282,3 +282,7 @@ pages:
         buy: 17500
         sell: 3875
         ominous-strength: 5
+      '23':
+        material: ARMADILLO_SCUTE
+        buy: 10.0
+        sell: 1.0
