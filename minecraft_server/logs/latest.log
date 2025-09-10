@@ -549,3 +549,31 @@ Download here: https://modrinth.com/plugin/lifestealz/version/2.18.1
 [17:43:50] [Thread-26/INFO]: [gg.playit.control.ChannelSetup] send keep alive
 [17:47:38] [Thread-26/INFO]: [gg.playit.control.ChannelSetup] send keep alive
 [17:47:50] [Thread-26/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[17:50:45] [Thread-26/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=147.185.221.31:33863, peerAddr=143.14.44.92:62066, claimAddress=209.25.141.2:43784, claimToken=[44, 0, 68, -109, -71, -35, 31, -124, 71, -113, 14, 44, 92, -14, 114, -93, 33, -47, -82, -85, 8, 104, -63, -70, 117, 0, 0, 0, 0, 0, 10, -61, -85, 0, 0, 0, 0, 0, 75, -89, 29, 0, 0, 0, 0, 0, 34, -72, 14, -86, -82, -85, 8, 0, 0, 0, 0, 36, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 77, -23, -32, 6, 122, 19, 108, -14, -113, 56, -25, -108, -58, 61, -60, 89], tunnelServerId=1, dataCenterId=36}
+[17:50:45] [Thread-26/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[17:50:45] [Thread-26/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.141.2:43784 to claim client
+[17:50:45] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[17:50:45] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[17:50:45] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[17:50:45] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
+[17:50:45] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
+[17:50:45] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[17:50:45] [nioEventLoopGroup-2-2/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[17:51:39] [Thread-26/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[17:51:51] [Thread-26/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[17:55:39] [Thread-26/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[17:55:51] [Thread-26/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[17:58:42] [Thread-26/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=147.185.221.31:33863, peerAddr=212.66.38.232:54649, claimAddress=209.25.141.2:43776, claimToken=[44, 0, 68, -109, -71, -35, 31, -124, 71, -44, 66, 38, -24, -43, 121, 4, -37, 82, 46, -85, 0, 104, -63, -68, 82, 0, 0, 0, 0, 0, 10, -61, -85, 0, 0, 0, 0, 0, 75, -89, 29, 0, 0, 0, 0, 0, 34, -72, 14, 2, 46, -85, 0, 0, 0, 0, 0, 36, 0, 0, 0, 0, 0, 0, 0, 1, 0, 3, -55, 46, -91, -26, -114, 73, -47, -105, 43, -95, 56, 6, -29, 106, -14, 76], tunnelServerId=1, dataCenterId=36}
+[17:58:42] [Thread-26/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[17:58:42] [Thread-26/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.141.2:43776 to claim client
+[17:58:42] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[17:58:42] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[17:58:42] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[17:58:42] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
+[17:58:42] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
+[17:58:42] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[17:58:42] [nioEventLoopGroup-2-4/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[17:59:42] [Thread-26/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[17:59:54] [Thread-26/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[18:03:42] [Thread-26/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[18:03:54] [Thread-26/INFO]: [gg.playit.control.ChannelSetup] send keep alive
