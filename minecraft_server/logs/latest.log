@@ -537,3 +537,11 @@ java.lang.IllegalArgumentException: Cannot translate null text
 [06:57:56] [nioEventLoopGroup-2-4/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
 [06:58:53] [Thread-27/INFO]: [gg.playit.control.ChannelSetup] send keep alive
 [06:59:05] [Thread-27/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[07:02:53] [Thread-27/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[07:03:05] [Thread-27/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[07:06:56] [Thread-27/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[07:07:08] [Thread-27/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[07:10:59] [Thread-27/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[07:11:11] [Thread-27/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[07:15:03] [Thread-27/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[07:15:15] [Thread-27/INFO]: [gg.playit.control.ChannelSetup] send keep alive
