@@ -3369,3 +3369,94 @@ LifeStealZ help page
 [17:50:38] [nioEventLoopGroup-2-2/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
 [17:53:32] [Thread-27/INFO]: [gg.playit.control.ChannelSetup] send keep alive
 [17:53:44] [Thread-27/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[17:55:30] [Server thread/INFO]: Unknown or incomplete command, see below for error
+stopo<--[HERE]
+[17:55:32] [Server thread/INFO]: Stopping the server
+[17:55:32] [Server thread/INFO]: Stopping server
+[17:55:32] [Server thread/INFO]: [NexusAuctionHouse] Disabling NexusAuctionHouse v2.2.1
+[17:55:32] [Server thread/INFO]: [InteractiveChat] Disabling InteractiveChat v4.3.2.0
+[17:55:32] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion interactivechat
+[17:55:32] [Server thread/INFO]: [PlaceholderAPI] Reason: required plugin InteractiveChat was disabled.
+[17:55:32] [Server thread/INFO]: [InteractiveChat] InteractiveChat has been Disabled!
+[17:55:32] [Server thread/INFO]: [Rules] Disabling Rules v1.5
+[17:55:32] [Server thread/INFO]: [Back] Disabling Back v1.8.6
+[17:55:32] [Server thread/INFO]: ----------------------------
+[17:55:32] [Server thread/INFO]: Back Plugin Disabled!
+[17:55:32] [Server thread/INFO]: Plugin developed by GFelberg
+[17:55:32] [Server thread/INFO]: ----------------------------
+[17:55:32] [Server thread/INFO]: [EconomyShopGUI] Disabling EconomyShopGUI v6.14.5
+[17:55:32] [Server thread/INFO]: [AxInventoryRestore] Disabling AxInventoryRestore v3.8.2
+[17:55:33] [Server thread/INFO]: [DoubleDoors] Disabling DoubleDoors v1.4
+[17:55:33] [Server thread/INFO]: [DoubleDoors] DoubleDoors has been disabled!
+[17:55:33] [Server thread/INFO]: [OnePlayerSleep] Disabling OnePlayerSleep v1.3
+[17:55:33] [Server thread/INFO]: [LightAntiCheat] Disabling LightAntiCheat v1.2.6
+[17:55:33] [Server thread/INFO]: [playit-gg] Disabling playit-gg v0.1.4
+[17:55:33] [Server thread/INFO]: [AxVaults] Disabling AxVaults v2.9.2
+[17:55:33] [Server thread/INFO]: [LifeStealZ] Disabling LifeStealZ v2.18.0
+[17:55:33] [Server thread/INFO]: [LifeStealZ] Canceling all running tasks...
+[17:55:33] [Server thread/INFO]: [LifeStealZ] LifeStealZ disabled!
+[17:55:33] [Server thread/INFO]: [AxTrade] Disabling AxTrade v1.19.2
+[17:55:33] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.4.2
+[17:55:33] [Server thread/INFO]: [PvPManager] Disabling PvPManager v3.19.10
+[17:55:33] [Server thread/INFO]: [PvPManager] Saving player data to storage...
+[17:55:33] [Server thread/INFO]: [PvPManager] Closed SQLITE storage
+[17:55:33] [Server thread/INFO]: [Ender] Disabling Ender v1.0
+[17:55:33] [Server thread/INFO]: [Ender] has been disabled
+[17:55:33] [Server thread/INFO]: [Chunky] Disabling Chunky v1.4.40
+[17:55:33] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.22.0-dev+21-e9da116
+[17:55:33] [Server thread/INFO]: [BetterTeams] Disabling BetterTeams v4.14.0
+[17:55:33] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
+[17:55:33] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[17:55:33] [Server thread/INFO]: [SynkLibs] Disabling SynkLibs v1.8.3
+[17:55:33] [Server thread/INFO]: [DiscordSRV] Disabling DiscordSRV v1.30.0
+[17:55:33] [DiscordSRV - Shutdown/INFO]: [DiscordSRV] Shutdown completed in 359ms
+[17:55:33] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.4.0
+[17:55:33] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.22.0-dev+20-81ac6f7
+[17:55:33] [Server thread/INFO]: [TAB] Disabling TAB v5.2.5
+[17:55:33] [Server thread/INFO]: [TAB] Disabled in 1ms
+[17:55:33] [Server thread/INFO]: [DecentHolograms] Disabling DecentHolograms v2.9.7
+[17:55:33] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.14+2339-43997ec
+[17:55:33] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[17:55:33] [Server thread/INFO]: [Essentials] Disabling Essentials v2.22.0-dev+19-7bc91f1
+[17:55:33] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[17:55:33] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[17:55:33] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.16+cbf4bd5
+[17:55:33] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[17:55:33] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[17:55:33] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.11
+[17:55:33] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[17:55:33] [Server thread/INFO]: [LuckPerms] Closing storage...
+[17:55:33] [Server thread/INFO]: [LuckPerms] Goodbye!
+[17:55:33] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.4.2
+[17:55:33] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[17:55:33] [Server thread/INFO]: Saving players
+[17:55:33] [Server thread/INFO]: Saving worlds
+[17:55:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:55:33] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[17:55:33] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[17:55:33] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[17:55:33] [Server thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 100 entity chunks, 0 poi chunks in world 'world' in 0.03s
+[17:55:33] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[17:55:33] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[17:55:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[17:55:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[17:55:34] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[17:55:34] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[17:55:34] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 2 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[17:55:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[17:55:34] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[17:55:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[17:55:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[17:55:34] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[17:55:34] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[17:55:34] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 39 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[17:55:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[17:55:34] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[17:55:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:55:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:55:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:55:34] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:55:34] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[17:55:34] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[17:55:34] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[17:55:34] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
